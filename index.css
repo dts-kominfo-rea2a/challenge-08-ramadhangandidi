@@ -1,0 +1,30 @@
+body{
+    background-color: #988ccc;
+    display: flex;    
+    justify-content: center;
+}
+
+#app {
+    background-color: #f0f4f4;
+    width: 40%;    
+    margin-top: 2rem;  
+    text-align: center;      
+    border-radius: 1rem;
+}
+
+#todo-subtitle {    
+    background-color: aqua;
+    margin: 1rem 12rem;    
+}
+
+#todo-title input{
+    margin-top: 0.5rem;
+    width: 50%;
+    height: 2rem;
+    margin-bottom: 1rem;
+}
+
+#todo-output{
+    text-align: start;
+}
+
